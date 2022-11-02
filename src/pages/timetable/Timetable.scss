@@ -1,0 +1,43 @@
+.list {
+    display: flex;
+    width: 100%;
+    .listContainer {
+      flex: 6;
+      .newtravel{
+        padding: 3%;
+        margin: 5%;
+        padding-bottom: 2%;
+        border: 3px solid #cb561c;
+        background-position: center;
+        background-size: cover;
+       
+    
+    
+    }
+    .header{
+      padding-top: 3%;
+      margin-left: 35%;
+      
+      position: center;
+      background-size: cover;
+      
+    }
+
+
+    .calender{
+      padding: 3%;
+      margin: 2%;
+      padding-bottom: 4%;
+      border: 3px solid #deab91;
+      border-radius: 4%;
+      background-position: center;
+      background-size: cover;
+      background-color: rgb(247, 237, 226);
+    
+    }
+    }
+    
+
+
+
+  }

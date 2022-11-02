@@ -53,10 +53,12 @@ const Sidebar = () => {
             <span>Busses</span>
           </li>
           
+          <Link to="/Timetable" style={{ textDecoration: "none" }}>
           <li>
             <DepartureBoardOutlinedIcon className="icon" />
             <span>Timtable</span>
           </li>
+          </Link>
           <li>
             <MonetizationOnOutlinedIcon className="icon" />
             <span>Pramotion</span>
