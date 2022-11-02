@@ -48,11 +48,15 @@ const Sidebar = () => {
             <BadgeIcon className="icon" />
             <span>Employee</span>
           </li>
+
+          
+          <Link to="/allocate_employees_for_travel" style={{ textDecoration: "none" }}>
           <li>
             <DirectionsBusFilledIcon className="icon" />
             <span>Busses</span>
           </li>
-          
+          </Link>
+
           <Link to="/Timetable" style={{ textDecoration: "none" }}>
           <li>
             <DepartureBoardOutlinedIcon className="icon" />

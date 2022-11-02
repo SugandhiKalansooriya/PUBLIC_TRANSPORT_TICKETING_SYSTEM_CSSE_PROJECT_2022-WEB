@@ -1,0 +1,20 @@
+
+
+ .hj{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    .carte{
+   
+        width:30% ;
+        height: 50%;
+        // box-shadow: 5px 5px 10px rgb(114, 95, 95);
+        border: 3px solid #deab91;
+        margin: 1%;
+        align-items: center;
+        padding:1%;
+        
+     }
+}
