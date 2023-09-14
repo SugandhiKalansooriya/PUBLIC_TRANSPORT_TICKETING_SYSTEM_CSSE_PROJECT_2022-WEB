@@ -23,7 +23,7 @@
     "react-scripts": "5.0.0",
     "recharts": "^2.1.9",
     "sass": "^1.49.9",
-    "sweetalert2": "^11.6.5",
+    "sweetalert2": "^11.7.27",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
